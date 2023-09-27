@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YagizGuven
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science at Bilkent University
+- 🌱 I’m currently a freshmen on Computer Science at Bilkent University
 - 📫 How to reach me ...
 
 <!---
