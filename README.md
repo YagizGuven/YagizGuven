@@ -1,5 +1,5 @@
 👋 Hi, I’m @YagizGuven
-I’m currently a freshmen on Computer Science at Bilkent University
+I’m currently a sophomore on Computer Science at Bilkent University
 
 <!---
 YagizGuven/YagizGuven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
